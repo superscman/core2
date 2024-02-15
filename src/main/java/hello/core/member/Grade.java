@@ -2,7 +2,8 @@ package hello.core.member;
 
 public enum Grade {
 
-    VIP("vip");
+    VIP("vip"),
+    BASIC("basic");
 
     private String grade;
 
